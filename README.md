@@ -2,8 +2,10 @@
 This is a simple Random Color application developed in Swift using UIKit. The app generates random colors, and tapping on a color displays a screen with that color.
 
 # Features
-Generate random colors
-Tap on a color to view it in full screen
+-Generate random colors
+
+-Tap on a color to view it in full screen
+
 Simple and clean user interface
 
 
